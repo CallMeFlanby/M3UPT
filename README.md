@@ -72,13 +72,13 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ## 📻 Main radio stations
 
-- Antena 1
-- Antena 2
-- Antena 3
-- Antena 1 Açores
-- Antena 1 Madeira
-- RDP Internacional
-- RDP África
+- RTP Antena 1
+- RTP Antena 2
+- RTP Antena 3
+- RTP Antena 1 Açores
+- RTP Antena 1 Madeira
+- RTP Mundo
+- RTP África
 - Rádio Comercial
 - M80
 - Rádio Oxigénio
