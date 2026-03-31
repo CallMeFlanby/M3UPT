@@ -22,7 +22,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - RTP 2
 - SIC
 - TVI
-- RTP 3
+- RTP Notícias
 - SIC Notícias
 - CNN Portugal
 - Euronews PT
@@ -31,7 +31,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - RTP Açores
 - RTP Madeira
 - RTP África
-- RTP Internacional
+- RTP Mundo
 - TVI Internacional
 - Porto Canal
 - Euronews EN
