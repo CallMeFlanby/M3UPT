@@ -24,7 +24,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - RTP 2
 - SIC
 - TVI
-- RTP 3
+- RTP Notícias
 - SIC Notícias
 - CNN Portugal
 - Euronews PT
@@ -33,7 +33,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - RTP Açores
 - RTP Madeira
 - RTP África
-- RTP Internacional
+- RTP Mundo
 - TVI Internacional
 - Porto Canal
 - Euronews EN
